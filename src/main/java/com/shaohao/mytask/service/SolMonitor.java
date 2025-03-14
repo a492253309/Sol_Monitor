@@ -16,8 +16,8 @@ import java.util.stream.Collectors;
 @Service
 public class SolMonitor {
 
-    private static String nodeUrl = "https://api.helius.xyz/v0/addresses/";
-    private static String token = "55bf84b3-47c5-40aa-bc41-ff683addc106";
+    private static String nodeUrl = "https://api/";
+    private static String token = "55bf8";
 
 
     private static String USDT = "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB";
